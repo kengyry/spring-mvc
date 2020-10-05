@@ -28,7 +28,7 @@ public class CarController {
         cars.add(new Car("Lamborghini Gallardo", "LP550-2", 2009));
         cars.add(new Car("Maserati Quattroporte", "IV", 1994));
         cars.add(new Car("Pagani Zonda", "Cinque", 2009));
-        cars.add(new Car("Жигули", "16.4", 1999));
+        cars.add(new Car("Bugatti Veyron", "16.4", 1999));
 
         List<Car> temp = new ArrayList<>();
         for (int i = 0; i < count; i++) {
